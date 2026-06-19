@@ -9,6 +9,4 @@ Hackathon Started!
 - Vaishnavi S-RA2311030010211
   
 # Proof Links
-
-- [Proof Deck Day 1](docs/day1/TEAM3_DAY1_MINI_SENTRIX_HACKATHON.pdf)
-  
+- ([Proof Deck Day 1](docs/day1/TEAM3_DAY1_MINI%20SENTRIX%20HACKATHON.pdf))
