@@ -1,0 +1,10 @@
+*.log
+*.pcap
+*.iso
+*.vmdk
+*.vdi
+*.ova
+.env
+__pycache__/
+.vscode/
+node_modules/
