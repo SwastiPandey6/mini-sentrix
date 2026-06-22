@@ -10,3 +10,4 @@ Hackathon Started!
   
 # Proof Links
 - ([Proof Deck Day 1](docs/day1/TEAM3_DAY1_MINI%20SENTRIX%20HACKATHON.pdf))
+- ([Proof Deck Day 1](docs/day2/TEAM3_DAY2_MINI%20SENTRIX%20HACKATHON.pdf))
