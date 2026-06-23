@@ -7,3 +7,7 @@ Hackathon Started!
 - Anshika Yadav-RA2311030010056
 - Mahek Parin Dedhia-RA2311030010093
 - Vaishnavi S-RA2311030010211
+  
+# Proof Links
+- ([Proof Deck Day 1](docs/day1/TEAM3_DAY1_MINI%20SENTRIX%20HACKATHON.pdf))
+- ([Proof Deck Day 2](docs/day2/TEAM3_DAY2_MINI%20SENTRIX%20HACKATHON.pdf))
